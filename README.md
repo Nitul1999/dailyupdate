@@ -1,0 +1,3 @@
+-In this project, i build a simple mern stack project where we can update our daily workouts
+- To start - go to fontend folder( cd fontend ) and start the server ( npm start )
+- For backend - go to server folder( cd server) and start the server using nodemon server commend
